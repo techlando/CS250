@@ -1,1 +1,14 @@
 # CS250
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+Gathering requirements directly from users or stakeholders plays a crucial role in translating user needs into a program. User stories, which are concise descriptions of features from the user's viewpoint, are essential in this process. They help prioritize development efforts and provide clarity on what needs to be built and why. These stories are detailed with acceptance criteria through refinement and collaboration, ensuring that they are actionable. The implementation phase involves coding and testing to meet user expectations, with ongoing feedback loops for iterative improvements. In essence, user stories bridge the gap between user needs and program development, ensuring a focused and effective software delivery process.![image](https://github.com/techlando/CS250/assets/98988726/e9876c62-3324-4d63-9ee4-aee785db65a0)
+
+# How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+Program development involves understanding and prioritizing requirements from stakeholders or users, followed by detailed planning and design. Embracing Agile methodologies like Scrum, Kanban, and iterative development can enhance this process. Implementing Scrum involves working in sprints, conducting daily stand-ups, and managing tasks through backlogs and reviews. Kanban focuses on visualizing workflow and managing work in progress efficiently. Iterative development allows for regular feedback and adaptation to changing requirements, while CI/CD ensures continuous integration, testing, and deployment. Collaborating closely with the team and stakeholders, regularly communicating progress, and testing rigorously ensure the program meets quality standards. Conducting reviews and retrospectives helps refine processes for future iterations, fostering continuous improvement and delivering software that meets user needs effectively.
+
+
+# What does it mean to be a good team member in software development?
+
+In software development, being a valuable team member requires a combination of technical expertise and strong interpersonal skills. Effective communication is essential for sharing ideas and listening to others. Collaboration involves being open to different perspectives, giving constructive feedback, and working toward common goals. Technical proficiency in programming languages, tools, and best practices is crucial, along with strong problem-solving skills and the ability to adapt to changing project requirements. Efficient time management, supporting colleagues, and upholding code quality through thorough documentation and clean coding practices are also vital. Embracing continuous learning, taking ownership of tasks, and being accountable for outcomes are all key contributors to a positive team environment and successful project completion.
